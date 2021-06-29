@@ -1,0 +1,7 @@
+,Country Name,Abuse Score 2021,Underlying Situation Score 2021,Global Score 2021,Global Score 2020,Global Score 2019,alpha_2,alpha_3,ccode,country,leader,year,government,gov_democracy,Continent_Name
+7,New Zealand,0.0,10.04,10.04,10.69,10.75,NZ,NZL,920.0,New Zealand,Jacinda Ardern,2021.0,Parliamentary Democracy,1.0,Oceania
+20,Samoa,0.0,19.24,19.24,18.25,18.25,WS,WSM,990.0,Samoa,Tuilaepa Sailele Malielegaoi,2021.0,Parliamentary Democracy,1.0,Oceania
+24,Australia,0.0,19.79,19.79,20.21,16.55,AU,AUS,900.0,Australia,Morrison,2021.0,Parliamentary Democracy,1.0,Oceania
+45,Tonga,0.0,24.59,24.59,27.27,25.41,TO,TON,955.0,Tonga,Tu'I'onetoa,2021.0,Monarchy,0.0,Oceania
+46,Papua New Guinea,0.0,24.88,24.88,23.93,24.7,PG,PNG,910.0,Papua New Guinea,James Marape,2021.0,Parliamentary Democracy,1.0,Oceania
+54,Fiji,0.0,27.92,27.92,27.41,27.18,FJ,FJI,950.0,Fiji,Bainimarama,2021.0,Military-Personal,0.0,Oceania

@@ -1,0 +1,54 @@
+,Country Name,Abuse Score 2021,Underlying Situation Score 2021,Global Score 2021,Global Score 2020,Global Score 2019,alpha_2,alpha_3,ccode,country,leader,year,government,gov_democracy,Continent_Name
+23,Namibia,10.99,19.72,19.72,19.25,18.95,NA,NAM,565.0,Namibia,Geingob,2021.0,Dominant Party,0.0,Africa
+27,Cabo Verde,0.0,20.09,20.09,20.15,19.81,CV,CPV,402.0,Cabo Verde,Correia e Silva,2021.0,Parliamentary Democracy,1.0,Africa
+30,Ghana,17.92,21.33,21.33,22.26,20.81,GH,GHA,452.0,Ghana,Akufo-Addo,2021.0,Presidential Democracy,1.0,Africa
+32,South Africa,45.64,15.61,21.59,22.41,22.19,ZA,ZAF,560.0,South Africa,Ramaphosa,2021.0,Parliamentary Democracy,1.0,Africa
+37,Burkina Faso,6.93,23.17,23.17,23.47,24.53,BF,BFA,439.0,Burkina Faso,Kabore,2021.0,Presidential Democracy,1.0,Africa
+38,Botswana,6.93,23.25,23.25,23.56,25.09,BW,BWA,571.0,Botswana,Mokgweetsi Masisi,2021.0,Dominant Party,0.0,Africa
+48,Senegal,28.33,24.62,25.22,23.99,25.81,SN,SEN,433.0,Senegal,Macky Sall,2021.0,Presidential Democracy,1.0,Africa
+51,Seychelles,0.0,25.66,25.66,28.66,29.41,SC,SYC,591.0,Seychelles,Wavel Ramkalawan,2021.0,Dominant Party,0.0,Africa
+56,Madagascar,0.0,28.24,28.24,27.68,27.76,MG,MDG,580.0,Madagascar,Rajoelina,2021.0,Presidential Democracy,1.0,Africa
+58,Niger,13.86,28.44,28.44,28.25,29.26,NE,NER,436.0,Niger,Bazoum,2021.0,Presidential Democracy,1.0,Africa
+61,Mauritius,0.0,28.74,28.74,28.0,28.46,MU,MUS,590.0,Mauritius,Pravind Jugnauth,2021.0,Parliamentary Democracy,1.0,Africa
+62,Malawi,17.92,28.8,28.8,29.32,29.36,MW,MWI,553.0,Malawi,Chakewera,2021.0,Presidential Democracy,1.0,Africa
+67,Côte d'Ivoire,17.92,28.87,28.87,28.94,29.52,CI,CIV,437.0,Côte d'Ivoire,Ouattara,2021.0,Presidential Democracy,1.0,Africa
+74,Tunisia,0.0,29.53,29.53,29.45,29.61,TN,TUN,616.0,Tunisia,Saied,2021.0,Presidential Democracy,1.0,Africa
+75,Togo,0.0,29.59,29.59,29.33,29.69,TG,TGO,461.0,Togo,Faure Gnassingbe,2021.0,Personal Dictatorship,0.0,Africa
+76,Sierra Leone,17.92,29.61,29.61,30.28,30.36,SL,SLE,451.0,Sierra Leone,Julius Maada Bio,2021.0,Presidential Democracy,1.0,Africa
+84,Comoros,6.93,30.65,30.65,29.77,27.91,KM,COM,581.0,Comoros,Assoumani,2021.0,Presidential Democracy,1.0,Africa
+85,Gambia,6.93,30.76,30.76,30.62,31.35,GM,GMB,420.0,Gambia,Barrow,2021.0,Presidential Democracy,1.0,Africa
+88,Lesotho,10.99,31.54,31.61,30.45,29.74,LS,LSO,570.0,Lesotho,Majoro,2021.0,Parliamentary Democracy,1.0,Africa
+95,Mauritania,0.0,32.25,32.25,32.54,31.65,MR,MRT,435.0,Mauritania,Ould Ghazouani,2021.0,Personal Dictatorship,0.0,Africa
+96,Guinea-Bissau,0.0,32.68,32.68,32.06,30.95,GW,GNB,404.0,Guinea-Bissau,Embalo,2021.0,Presidential Democracy,1.0,Africa
+99,Liberia,27.73,33.36,33.36,32.25,31.49,LR,LBR,450.0,Liberia,Weah,2021.0,Presidential Democracy,1.0,Africa
+100,Mali,6.93,33.5,33.5,34.12,35.23,ML,MLI,432.0,Mali,Assimi Goita,2021.0,Provisional - Military,0.0,Africa
+102,Ethiopia,30.91,33.63,33.63,32.82,35.11,ET,ETH,530.0,Ethiopia,Abiy Ahmed,2021.0,Dominant Party,0.0,Africa
+103,Kenya,20.79,33.65,33.65,33.72,32.44,KE,KEN,501.0,Kenya,Kenyatta,2021.0,Presidential Democracy,1.0,Africa
+104,Angola,25.65,34.06,34.06,33.92,34.96,AO,AGO,540.0,Angola,Lourenco,2021.0,Dominant Party,0.0,Africa
+109,Mozambique,13.86,35.39,35.39,33.79,32.66,MZ,MOZ,541.0,Mozambique,Nyussi,2021.0,Dominant Party,0.0,Africa
+110,Guinea,17.92,35.42,35.42,34.34,33.49,GN,GIN,438.0,Guinea,Conde,2021.0,Presidential Democracy,1.0,Africa
+115,Benin,0.0,38.18,38.18,35.11,31.74,BJ,BEN,434.0,Benin,Talon,2021.0,Presidential Democracy,1.0,Africa
+116,Zambia,0.0,38.21,38.21,37.0,36.38,ZM,ZMB,551.0,Zambia,Lungu,2021.0,Presidential Democracy,1.0,Africa
+118,Gabon,0.0,38.6,38.6,37.2,35.6,GA,GAB,481.0,Gabon,Ondimba,2021.0,Party-Personal,0.0,Africa
+119,Congo,23.98,38.83,38.83,36.56,36.04,CG,COG,484.0,Congo,Nguesso,2021.0,Personal Dictatorship,0.0,Africa
+121,Nigeria,55.01,37.38,39.69,35.63,36.5,NG,NGA,475.0,Nigeria,Buhari,2021.0,Presidential Democracy,1.0,Africa
+124,Chad,37.84,40.2,40.2,39.7,36.71,TD,TCD,483.0,Chad,Mahamat Idriss Deby,2021.0,Provisional - Military,0.0,Africa
+125,United Republic of Tanzania,0.0,40.69,40.69,40.25,36.28,TZ,TZA,510.0,Tanzania,Samia Suluhu Hassan,2021.0,Dominant Party,0.0,Africa
+126,Uganda,39.32,41.19,41.19,40.95,39.42,UG,UGA,500.0,Uganda,Museveni,2021.0,Personal Dictatorship,0.0,Africa
+127,Central African Republic,0.0,41.92,41.92,42.87,47.27,CF,CAF,482.0,Central African Republic,Touadera,2021.0,Presidential Democracy,1.0,Africa
+131,Zimbabwe,34.66,43.12,43.12,40.95,42.23,ZW,ZWE,552.0,Zimbabwe,Mnangagwa,2021.0,Dominant Party,0.0,Africa
+136,Cameroon,43.57,43.78,43.78,43.28,43.32,CM,CMR,471.0,Cameroon,Biya,2021.0,Personal Dictatorship,0.0,Africa
+137,Morocco,55.21,41.86,43.94,42.88,43.98,MA,MAR,600.0,Morocco,Muhammad VI,2021.0,Monarchy,0.0,Africa
+140,South Sudan,30.45,45.78,45.78,44.49,45.65,SS,SSD,626.0,South Sudan,Kiir,2021.0,Personal Dictatorship,0.0,Africa
+142,Eswatini,24.85,46.34,46.34,45.15,49.09,SZ,SWZ,572.0,Eswatini,Mswati,2021.0,Monarchy,0.0,Africa
+147,Algeria,35.55,47.26,47.26,45.52,45.75,DZ,DZA,615.0,Algeria,Tebboune,2021.0,Presidential Democracy,1.0,Africa
+148,Burundi,39.32,47.57,47.57,55.33,52.89,BI,BDI,516.0,Burundi,Ndayishimiye,2021.0,Personal Dictatorship,0.0,Africa
+150,"Congo, The Democratic Republic of the",43.82,48.59,48.59,49.09,51.71,CD,COD,490.0,"Congo, The Democratic Republic of the",Felix Tschisekedi,2021.0,Personal Dictatorship,0.0,Africa
+160,Rwanda,30.45,50.66,50.66,50.34,52.43,RW,RWA,517.0,Rwanda,Paul Kagame,2021.0,Party-Military,0.0,Africa
+163,Sudan,30.45,52.93,52.93,55.33,72.45,SD,SDN,625.0,Sudan,Abdelrahman Burhan,2021.0,Provisional - Civilian,0.0,Africa
+165,Somalia,45.43,55.47,55.47,55.45,57.24,SO,SOM,520.0,Somalia,Mohamed Abdullahi Farmajo,2021.0,Provisional - Civilian,0.0,Africa
+168,Equatorial Guinea,0.0,55.67,55.67,56.38,58.35,GQ,GNQ,411.0,Equatorial Guinea,Nguema Mbasogo,2021.0,Personal Dictatorship,0.0,Africa
+169,Libya,46.05,55.73,55.73,55.77,55.77,LY,LBY,620.0,Libya,Abdul Hamid Dbeibeh,2021.0,Provisional - Civilian,0.0,Africa
+170,Egypt,64.13,54.67,56.17,56.82,56.47,EG,EGY,651.0,Egypt,al-Sisi,2021.0,Military-Personal,0.0,Africa
+181,Djibouti,10.99,78.62,78.62,76.73,71.36,DJ,DJI,522.0,Djibouti,Guelleh,2021.0,Personal Dictatorship,0.0,Africa
+185,Eritrea,73.05,82.05,81.45,83.5,80.26,ER,ERI,531.0,Eritrea,Afeworki,2021.0,Party-Personal,0.0,Africa
