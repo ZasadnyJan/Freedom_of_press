@@ -3,7 +3,13 @@
 This notebook contains a combined **Exploratory Data Analysis** of [The World Press Index](https://www.kaggle.com/jaykumar1607/world-press-index-20192021) and [REIGN](https://www.kaggle.com/janzasadny/rulers-elections-and-irregular-governance) datasets.
 
 
-### Github sometimes has problems rendering jupyter notebooks correctly, if that happens please visit https://nbviewer.jupyter.org/github/ZasadnyJan/Freedom_of_press/blob/main/Main_notebook.ipynb
+### Github sometimes has problems rendering jupyter notebooks correctly, if that happens please visit 
+
+https://www.kaggle.com/janzasadny/governments-vs-freedom-of-press-eda
+
+or
+
+https://nbviewer.jupyter.org/github/ZasadnyJan/Freedom_of_press/blob/main/Main_notebook.ipynb
 
 ## Data
 
